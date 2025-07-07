@@ -53,4 +53,4 @@ The project findings can support:
 
 ## GitHub Project Link
 
-[Click here to view the full project on GitHub](https://github.com/yourusername/Stock-Market-ML-Model)
+https://github.com/yourusername/Stock-Market-ML-Model
